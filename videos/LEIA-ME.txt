@@ -1,0 +1,5 @@
+Coloque os arquivos de vídeo MP4 nesta pasta
+Arquivos necessários:
+- arara-azul.mp4
+- kakapo.mp4
+- documentario.mp4

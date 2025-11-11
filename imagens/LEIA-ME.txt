@@ -1,0 +1,9 @@
+Coloque suas imagens dos pássaros nesta pasta (formato JPG ou PNG)
+Arquivos necessários:
+- arara-azul-lear.jpg
+- kakapo.jpg
+- condor-california.jpg
+- mutum-nordeste.jpg
+- colhereiro.jpg
+- galeria-1.jpg até galeria-6.jpg
+- thumb-video-1.jpg, thumb-video-2.jpg, thumb-video-3.jpg

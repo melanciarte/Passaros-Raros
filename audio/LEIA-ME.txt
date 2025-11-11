@@ -1,0 +1,6 @@
+Coloque os arquivos de áudio MP3 nesta pasta
+Arquivos necessários:
+- arara-azul.mp3
+- kakapo.mp3
+- mutum.mp3
+- colhereiro.mp3
