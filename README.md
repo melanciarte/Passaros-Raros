@@ -14,7 +14,7 @@ passaros-raros/
 └── audio/              # Pasta para sons dos pássaros
 ```
 
-## 🎨 Características
+## 🎨 Características.
 
 - ✅ Design responsivo e moderno
 - ✅ Seções sobre espécies raras
@@ -23,7 +23,7 @@ passaros-raros/
 - ✅ Players de vídeo
 - ✅ Informações sobre conservação
 
-## 📝 Como Adicionar Conteúdo
+## 📝 Como Adicionar Conteúdo.
 
 ### Imagens
 Coloque suas imagens na pasta `imagens/` com os seguintes nomes:
@@ -72,14 +72,14 @@ git commit -m "Primeiro commit: Site de pássaros raros"
 - Não inicialize com README (já temos um)
 - Clique em "Create Repository"
 
-### 5. Conectar e enviar
+### 5. Conectar e enviar.
 ```bash
 git remote add origin https://github.com/SEU-USUARIO/passaros-raros.git
 git branch -M main
 git push -u origin main
 ```
 
-## 🌐 Publicar o Site (GitHub Pages)
+## 🌐 Publicar o Site (GitHub Pages).
 
 1. Vá até o repositório no GitHub
 2. Clique em "Settings"
