@@ -1,0 +1,123 @@
+preciso criar um site simples que seja em html e css bem simples e bonito com tipo de passaros raros vou te manda oque começou a fazer me ajuda a criar para add no github e me ajuda com todos os processos onde que vai ficar os arquivos e tudo preciso que o site tenha videos e imagens, som dos passaros raros e que seja muito atrativo. <!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>O Tordo</title>
+
+</head>
+
+<body>
+
+
+
+  <header>
+
+    <img src="https://github.com/user-attachments/assets/b54d1f39-8d0d-4e2f-bef6-ac7d19ab0610" alt="Banner do O Tordo" style="width:100%; height:auto;">
+
+    <h1>O Tordo - O seu site favorito sobre Os Jogos Vorazes!</h1>
+
+  </header>
+
+
+
+  <nav>
+
+    <ul>
+
+      <li><a href="#">Início</a></li>
+
+      <li><a href="#">Notícias</a></li>
+
+      <li><a href="#">Curiosidades</a></li>
+
+      <li><a href="#">Músicas</a></li>
+
+      <li><a href="#">Livros</a></li>
+
+      <li><a href="#">Filmes</a></li>
+
+    </ul>
+
+  </nav>
+
+
+
+  <main>
+
+    <section>
+
+      <h2>🐦‍🔥 Top 5 Curiosidades</h2>
+
+      <article><h3>1. </h3><p>A autora,Suzanne Collins, é formada em Artes Cênicas,
+
+Interpretação e Telecomunicações. Depois do sucesso de Jogos Vorazes, foi
+
+eleita pela revista Time como uma das pessoas mais influentes do ano de 2010.</p></article>
+
+      <article><h3>2. </h3><p>Para escrever a saga a autora se inspirou em
+
+cenas da guerra no Iraque que foram transmitidas pela TV em tempo real e em
+
+reality shows. </p></article>
+
+      <article><h3>3. </h3><p>Para interpretar Peeta, o ator Josh Hutcherson,
+
+leu todos os livros da saga em cinco dias.</p></article>
+
+      <article><h3>4. </h3><p>Panem tem seu nome baseado na
+
+frase em latim “Panem et Circenses”, numa tradução livre significa pão e circo.
+
+Esta era a política assumida pelos romanos que previa o provimento de comida e
+
+diversão com o objetivo de diminuir a insatisfação popular contra governantes.</p></article>
+
+      <article><h3>5. </h3><p>No Brasil foram vendidos mais de 200 mil cópias
+
+do primeiro livro da saga.</p></article>
+
+    </section>
+
+
+
+    <section>
+
+      <h2>🎵 Trilha Sonora</h2>
+
+      <p>Saiba aqui a soundtrack presente na saga.</p>
+
+    </section>
+
+
+
+    <section>
+
+      <h2>🖼️ Galeria</h2>
+
+      <p>Adicione suas cenas favoritas aqui. Crie uma pasta chamada <strong>imagens</strong> e coloque suas fotos lá.</p>
+
+      <img src="https://github.com/user-attachments/assets/324dc389-448e-458b-94a3-b81513c0d3e8" alt="Imagem exemplo" width="300">
+
+    </section>
+
+  </main>
+
+
+
+  <footer>
+
+    <p>Site criado por: Emanuelly | Data: 05/08/2025</p>
+
+  </footer>
+
+
+
+</body>
+
+</html>
